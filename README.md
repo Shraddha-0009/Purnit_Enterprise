@@ -284,43 +284,7 @@ The required environment variables should be placed in `.env`.
 
 ---
 
-## 📸 Screenshots
 
-Add screenshots of the actual application here.
-
-Recommended screenshots:
-
-### Login
-
-```text
-screenshots/login.png
-```
-
-### Dashboard
-
-```text
-screenshots/dashboard.png
-```
-
-### Projects
-
-```text
-screenshots/projects.png
-```
-
-### Analytics
-
-```text
-screenshots/analytics.png
-```
-
-Example:
-
-```markdown
-![Dashboard](screenshots/dashboard.png)
-```
-
----
 
 ## 🚀 Future Enhancements
 
@@ -370,3 +334,8 @@ Purnit currently provides the foundation and interface for a multi-role enterpri
 This project is intended for educational, portfolio, and development purposes.
 
 Production deployment requires proper backend configuration, authentication security, database rules, access-control policies, testing, monitoring, and secure management of environment variables.npx lint-staged
+
+---
+## 📄 License
+
+This project is licensed under the MIT License.
