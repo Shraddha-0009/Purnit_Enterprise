@@ -1,8 +1,8 @@
-# 🏢 Purnit — Enterprise Workspace Platform
+#  Purnit — Enterprise Workspace Platform
 
 > A modern multi-role enterprise workspace platform designed to bring employees, HR teams, managers, and administrators together in a unified digital workspace.
 
-## 📌 Overview
+##  Overview
 
 **Purnit** is an enterprise workspace platform designed to reduce dependency on multiple disconnected workplace applications by providing a centralized environment for managing employees, projects, meetings, notifications, workspaces, analytics, and organizational activities.
 
@@ -12,7 +12,7 @@ The project focuses on building a scalable foundation for an enterprise SaaS app
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Modern organizations often use multiple applications for communication, project management, meetings, employee management, notifications, and analytics.
 
@@ -31,9 +31,9 @@ Purnit provides a **unified enterprise workspace** where different organizationa
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 🔐 Authentication
+### Authentication
 
 - User registration
 - User login
@@ -41,7 +41,7 @@ Purnit provides a **unified enterprise workspace** where different organizationa
 - Protected application routes
 - Role-based access
 
-### 👥 Role-Based Workspaces
+### Role-Based Workspaces
 
 The platform provides different interfaces for organizational roles such as:
 
@@ -52,31 +52,31 @@ The platform provides different interfaces for organizational roles such as:
 
 This allows users to access features relevant to their responsibilities.
 
-### 📊 Dashboard
+### Dashboard
 
 The dashboard provides a centralized view of organizational activities and important information.
 
-### 📁 Project Management
+### Project Management
 
 The project module provides an interface for managing organizational projects and tracking project-related information.
 
-### 📅 Meeting Management
+### Meeting Management
 
 Users can access meeting-related functionality through a dedicated meetings module.
 
-### 🔔 Notifications
+### Notifications
 
 A notification system is included to provide users with updates and application events.
 
-### 📈 Analytics
+### Analytics
 
 The analytics section provides a foundation for visualizing organizational and workspace-related information.
 
-### 👤 Profile & Settings
+### Profile & Settings
 
 Users can manage profile-related information and application settings.
 
-### 🌓 Theme Support
+### Theme Support
 
 The platform supports:
 
@@ -84,7 +84,7 @@ The platform supports:
 - Dark mode
 - System-based theme preference
 
-### 🧩 Reusable UI Components
+### Reusable UI Components
 
 The application uses reusable components such as:
 
@@ -104,7 +104,7 @@ This improves consistency and maintainability across the application.
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```text
                     ┌─────────────────────────┐
@@ -135,7 +135,7 @@ This improves consistency and maintainability across the application.
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Category | Technology |
 |---|---|
@@ -158,7 +158,7 @@ This improves consistency and maintainability across the application.
 
 ---
 
-## 🧱 Application Modules
+##  Application Modules
 
 ```text
 Purnit
@@ -194,7 +194,7 @@ Purnit
 
 ---
 
-## 🔐 Role-Based Access
+##  Role-Based Access
 
 Purnit follows a role-oriented architecture where application layouts and functionality can be controlled based on user roles and permissions.
 
@@ -272,7 +272,7 @@ http://localhost:5173
 
 ---
 
-## 🔑 Backend Configuration
+##  Backend Configuration
 
 Purnit uses **Supabase** for backend-related functionality such as authentication and database integration.
 
@@ -286,7 +286,7 @@ The required environment variables should be placed in `.env`.
 
 
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - AI-powered enterprise assistant
 - Intelligent document search
@@ -303,7 +303,7 @@ The required environment variables should be placed in `.env`.
 
 ---
 
-## 👩‍💻 Project Contribution
+##  Project Contribution
 
 My contribution to the project includes work on the development and integration of the enterprise workspace platform, including:
 
@@ -321,7 +321,7 @@ My contribution to the project includes work on the development and integration 
 
 ---
 
-## 📌 Project Status
+## Project Status
 
 **Status: Development / Working Prototype**
 
@@ -329,13 +329,13 @@ Purnit currently provides the foundation and interface for a multi-role enterpri
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is intended for educational, portfolio, and development purposes.
 
 Production deployment requires proper backend configuration, authentication security, database rules, access-control policies, testing, monitoring, and secure management of environment variables.npx lint-staged
 
 ---
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
